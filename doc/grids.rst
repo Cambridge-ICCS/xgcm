@@ -30,7 +30,7 @@ clearly related and can be transformed via well defined interpolation and
 difference operators. One goal of xgcm is to provide these interpolation
 and difference operators.
 
-We use `MITgcm notation`_ to denote the basic operators that transform between
+We use [MITgcm notation](https://mitgcm.readthedocs.io/en/latest/algorithm/algorithm.html) to denote the basic operators that transform between
 grid points. The difference operator is defined as
 
 .. math::
